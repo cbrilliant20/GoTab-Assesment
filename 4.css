@@ -1,0 +1,9 @@
+/* With id */
+#num1 {
+  color: red;
+}
+
+/* With combinator */
+div + p {
+  color: red;
+}
